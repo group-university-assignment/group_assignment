@@ -7,4 +7,4 @@ To hold the work and result from module KV6002
 #### Sahil, image_recognition.
 #### Neville, Repo custodian and front_end_gui branch.
 
-##### Please do not update this readme file, uinless you are on the ### --**main**-- branch of the repo.
+##### Please do not update this readme file, uinless you are on the __**main**__ branch of the repo.

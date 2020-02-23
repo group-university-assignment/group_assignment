@@ -1,7 +1,9 @@
 # group_assignment
 To hold the work and result from module KV6002
 
-Below are the brnaches and the names which have been assigned, PLEASE DO NOT SELECT A BRANCH WHICH IS NOT YOUR OWN.
+Below are the branches and the names which have been assigned, 
+
+## PLEASE DO NOT SELECT A BRANCH WHICH IS NOT YOUR OWN.
 
 Select your branch then upload, change or delete.
 

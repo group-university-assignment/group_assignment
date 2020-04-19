@@ -1,5 +1,4 @@
 import keras
-import random #
 import os
 import librosa
 import numpy as np
@@ -63,14 +62,3 @@ class Transcriber:
 
         return ('The spoken word is: ' + word + '.\n')
     
-
-#testing code to import random clip from dataset
-
-#testDir = 'Dataset/test/audio'
-#testClip = random.choice(os.listdir(testDir))
-#
-#writer = Transcriber()
-#
-#testPath = (testDir + '/' + testClip)
-#
-#print(writer.transcribe(testPath))'''

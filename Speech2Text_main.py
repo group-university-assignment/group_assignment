@@ -1,5 +1,3 @@
-#final result will be accuracy, error, and prediction
-
 import keras
 import random #
 import os
